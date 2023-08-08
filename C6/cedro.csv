@@ -1,0 +1,215 @@
+poblacion;familia;largo;diametro;largodetallo;nrohojas
+Charagre;Ch_71;6;0,3;;
+Charagre;Ch_71;6;0,3;13;8
+Charagre;Ch_710;6;0,3;;
+Charagre;Ch_710;13;0,3;;
+Charagre;Ch_711;14;0,4;16;9
+Charagre;Ch_711;8;0,3;7,5;7
+Charagre;Ch_712;12,5;0,4;13;8
+Charagre;Ch_712;10;0,3;13;9
+Charagre;Ch_713;6,5;0,3;8;9
+Charagre;Ch_713;6;0,2;;
+Charagre;Ch_714;6;0,3;13;8
+Charagre;Ch_714;6;0,3;;
+Charagre;Ch_715;6;0,25;13;8
+Charagre;Ch_72;10,5;0,4;15;10
+Charagre;Ch_73;7;0,3;8;8
+Charagre;Ch_73;6;0,3;;
+Charagre;Ch_74;8;0,3;7;9
+Charagre;Ch_74;7;0,3;;
+Charagre;Ch_75;7;0,3;7;8
+Charagre;Ch_75;7;0,3;8;9
+Charagre;Ch_76;8;0,3;7;8
+Charagre;Ch_77;8,5;0,3;12;9
+Charagre;Ch_77;6;0,3;8;8
+Charagre;Ch_78;12;0,3;7;8
+Charagre;Ch_78;6,5;0,2;8;9
+Charagre;Ch_79;13;0,3;8;8
+Escarcega;Es_1126;78;0,8;42;18
+Escarcega;Es_1126;52;0,6;33;17
+Escarcega;Es_1127;100;0,7;53;21
+Escarcega;Es_1127;97;0,7;49;17
+Escarcega;Es_1128;117;1,2;50;24
+Escarcega;Es_1129;88;1;47;19
+Escarcega;Es_1129;69;0,6;34;13
+Escarcega;Es_1130;65;0,8;41;18
+Escarcega;Es_1131;43;0,6;23;12
+Escarcega;Es_1132;117;1,3;43;24
+Escarcega;Es_1132;92;1;49;24
+Escarcega;Es_1133;61;0,9;49;18
+Escarcega;Es_1133;74;0,9;31;18
+Escarcega;Es_1134;43;0,8;46;17
+Escarcega;Es_1134;45;0,8;32;11
+Escarcega;Es_1135;31;0,7;36;17
+Escarcega;Es_1136;27;0,6;20;11
+Escarcega;Es_1136;72;0,8;47;20
+Escarcega;Es_1137;39;0,7;25;13
+Escarcega;Es_1137;24;0,6;30;11
+Escarcega;Es_1138;72;0,6;36;16
+Escarcega;Es_1138;117;1,4;34;20
+Escarcega;Es_1139;33;0,6;34;15
+Escarcega;Es_1142;59;0,9;37;16
+Escarcega;Es_1142;103;1,1;53;26
+Escarcega;Es_1148;34;0,6;28;15
+Escarcega;Es_1148;18;0,4;20;9
+Esclavos;Ec_31;39;0,7;51;17
+Esclavos;Ec_31;68;1;59;22
+Esclavos;Ec_310;88;1;48;23
+Esclavos;Ec_310;66;0,7;43;19
+Esclavos;Ec_311;71;0,7;42;17
+Esclavos;Ec_311;38;0,6;32;13
+Esclavos;Ec_312;61;0,6;32;15
+Esclavos;Ec_312;60;0,9;26;13
+Esclavos;Ec_313;29;0,7;36;15
+Esclavos;Ec_313;37;0,8;32;17
+Esclavos;Ec_314;107;1,3;35;22
+Esclavos;Ec_314;110;1,7;37;26
+Esclavos;Ec_315;12;0,3;12;10
+Esclavos;Ec_315;15;0,3;10;9
+Esclavos;Ec_316;86;1,1;31;18
+Esclavos;Ec_316;91;0,8;42;22
+Esclavos;Ec_317;79;0,8;39;21
+Esclavos;Ec_317;64;0,6;36;13
+Esclavos;Ec_318;24;0,3;11;7
+Esclavos;Ec_318;84;0,8;34;18
+Esclavos;Ec_319;59;0,6;25;15
+Esclavos;Ec_319;85;0,8;39;22
+Esclavos;Ec_32;81;0,9;60;21
+Esclavos;Ec_32;28;0,5;36;13
+Esclavos;Ec_320;98;1,1;36;18
+Esclavos;Ec_320;87;0,7;38;14
+Esclavos;Ec_33;55;0,5;32;14
+Esclavos;Ec_33;75;0,9;52;17
+Esclavos;Ec_34;77;0,6;40;15
+Esclavos;Ec_34;22;0,4;15;9
+Esclavos;Ec_35;99;1,2;46;24
+Esclavos;Ec_35;78;0,9;49;18
+Esclavos;Ec_36;54;0,6;34;13
+Esclavos;Ec_36;25;0,5;24;12
+Esclavos;Ec_37;101;1,4;54;23
+Esclavos;Ec_37;84;1,4;45;22
+Esclavos;Ec_38;83;0,9;37;18
+Esclavos;Ec_38;71;0,7;36;20
+Esclavos;Ec_39;97;1,1;58;24
+Esclavos;Ec_39;50;0,6;32;13
+La Paz;LP_41;20;0,5;20;13
+La Paz;LP_41;45;0,7;24;11
+La Paz;LP_410;115;1,1;48;20
+La Paz;LP_410;104;0,8;37;16
+La Paz;LP_411;105;0,9;51;18
+La Paz;LP_411;97;1;50;21
+La Paz;LP_412;106;1;49;20
+La Paz;LP_412;121;1,1;47;20
+La Paz;LP_413;19;0,4;25;9
+La Paz;LP_413;72;0,6;43;16
+La Paz;LP_414;105;0,8;58;20
+La Paz;LP_414;26;0,4;19;11
+La Paz;LP_415;30;0,8;29;15
+La Paz;LP_415;34;0,9;37;15
+La Paz;LP_42;23;0,5;18;9
+La Paz;LP_42;123;2,1;54;20
+La Paz;LP_43;61;0,7;41;16
+La Paz;LP_43;72;0,8;46;20
+La Paz;LP_44;62;0,9;46;16
+La Paz;LP_44;72;1,2;52;16
+La Paz;LP_45;38;0,7;29;17
+La Paz;LP_45;111;1,1;46;20
+La Paz;LP_46;81;0,7;47;16
+La Paz;LP_46;20;0,4;14;13
+La Paz;LP_48;63;1,1;30;15
+La Paz;LP_49;132;2;56;24
+La Paz;LP_49;48;0,7;22;12
+Pacífico Sur;PS_6204;5;0,3;;
+Pacífico Sur;PS_6204;12;0,4;13;7
+Pacífico Sur;PS_6206;8,5;0,3;10;6
+Pacífico Sur;PS_6206;6;0,2;;
+Pacífico Sur;PS_6207;8,5;0,2;;
+Pacífico Sur;PS_6207;27,5;0,7;28;12
+Pacífico Sur;PS_6208;9,5;0,3;17;10
+Pacífico Sur;PS_6208;10;0,3;10,5;7
+Pacífico Sur;PS_6209;16;0,5;21;9
+Pacífico Sur;PS_6209;7;0,2;;
+Pacífico Sur;PS_6210;17,5;0,4;24;10
+Pacífico Sur;PS_6210;14,5;0,4;24;9
+Pacífico Sur;PS_6211;10;0,3;10;3
+Pacífico Sur;PS_6211;11,5;0,3;13,5;8
+Pacífico Sur;PS_6212;7;0,3;5;6
+Pacífico Sur;PS_6212;10,5;0,3;11;8
+Pacífico Sur;PS_6213;15,5;0,4;19;10
+Pacífico Sur;PS_6213;11;0,3;9;7
+Pacífico Sur;PS_6214;7;0,2;;4
+Pacífico Sur;PS_6214;8;0,25;9;9
+Pacífico Sur;PS_6215;11;0,3;15;9
+Pacífico Sur;PS_6215;13,5;0,4;14;8
+Pacífico Sur;PS_6216;36;0,7;42;17
+Pacífico Sur;PS_6216;25;0,4;25;11
+Pacífico Sur;PS_6217;11,5;0,3;6,5;5
+Pacífico Sur;PS_6217;12;0,3;6;5
+Pacífico Sur;PS_6218;27;0,3;26;11
+Pacífico Sur;PS_6218;16;0,4;;
+Pacífico Sur;PS_6219;11;0,2;;
+Pacífico Sur;PS_6219;8;0,3;7;7
+Pacífico Sur;PS_6220;10;0,2;;
+Pacífico Sur;PS_6220;6;0,2;;
+Pacífico Sur;PS_6221;14,5;0,4;13;10
+Pacífico Sur;PS_6221;9;0,2;;
+Pacífico Sur;PS_6222;6,5;0,2;;
+Pacífico Sur;PS_6222;10;0,3;13;6
+Pacífico Sur;PS_660;24;0,5;24,5;9
+Pacífico Sur;PS_660;16;0,3;;
+Xpujil;Xp_11;27;0,8;35;15
+Xpujil;Xp_110;81;1,1;39;26
+Xpujil;Xp_112;103;1,4;48;24
+Xpujil;Xp_112;44;0,5;27;13
+Xpujil;Xp_113;79;0,8;52;20
+Xpujil;Xp_113;39;0,8;47;19
+Xpujil;Xp_114;67;0,6;35;13
+Xpujil;Xp_114;87;0,8;43;16
+Xpujil;Xp_115;75;1,1;42;27
+Xpujil;Xp_115;21;0,5;15;9
+Xpujil;Xp_116;119;1,4;40;20
+Xpujil;Xp_116;94;0,8;44;19
+Xpujil;Xp_117;94;1,1;23;9
+Xpujil;Xp_117;95;1;56;22
+Xpujil;Xp_118;72;0,6;36;16
+Xpujil;Xp_118;104;1,2;55;18
+Xpujil;Xp_119;99;1,2;48;19
+Xpujil;Xp_119;118;1,6;46;24
+Xpujil;Xp_12;67;1,3;32;22
+Xpujil;Xp_120;110;1,5;36;22
+Xpujil;Xp_120;113;1,3;46;26
+Xpujil;Xp_122;19;0,5;20;13
+Xpujil;Xp_122;43;0,6;32;14
+Xpujil;Xp_123;19;0,5;23;13
+Xpujil;Xp_123;17;0,4;21;9
+Xpujil;Xp_15;82;1,5;53;25
+Xpujil;Xp_15;73;1,5;59;22
+Xpujil;Xp_16;83;1,4;66;26
+Xpujil;Xp_17;86;1,2;24;22
+Xpujil;Xp_18;83;1,3;51;26
+Xpujil;Xp_18;44;0,7;34;15
+Xpujil;Xp_19;100;1,5;47;20
+Yucatán;Yu_1111;16;0,4;13;9
+Yucatán;Yu_1111;28;0,6;24;11
+Yucatán;Yu_1114;20;0,5;15;9
+Yucatán;Yu_1114;17;0,4;13;9
+Yucatán;Yu_1115;63;0,8;47;17
+Yucatán;Yu_1115;29;0,6;33;17
+Yucatán;Yu_1116;38;0,7;23;15
+Yucatán;Yu_1116;75;1,2;46;18
+Yucatán;Yu_1117;29;0,6;18;10
+Yucatán;Yu_1117;95;1,1;53;18
+Yucatán;Yu_1118;20;0,6;19;11
+Yucatán;Yu_1118;97;1,2;51;22
+Yucatán;Yu_1119;91;1,1;52;20
+Yucatán;Yu_1119;50;0,8;36;18
+Yucatán;Yu_1121;44;0,9;30;17
+Yucatán;Yu_1121;40;0,9;41;18
+Yucatán;Yu_1122;77;0,8;57;22
+Yucatán;Yu_1122;99;1,1;53;22
+Yucatán;Yu_1123;51;0,7;36;15
+Yucatán;Yu_1123;22;0,5;25;14
+Yucatán;Yu_1124;58;0,7;42;16
+Yucatán;Yu_1124;29;0,5;13;9
+Yucatán;Yu_1125;94;1,3;50;22
+Yucatán;Yu_1125;82;1,2;51;21
